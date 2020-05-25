@@ -1,0 +1,148 @@
+{
+  "_id": 1,
+  "names": "Naveen Kumar",
+  "surnames": "P",
+  "profession": "Software Developer",
+  "location": "Banglore, India",
+  "email": "ns562117@gmail.com",
+  "phone": "+91 8884796108",
+  "skills": [
+    {
+      "skill_name": "React Native",
+      "skill_pctg": 90
+    },
+    {
+      "skill_name": "React JS",
+      "skill_pctg": 80
+    },
+    {
+      "skill_name": "AWS EC2 & S3 and services",
+      "skill_pctg": 75
+    },
+    {
+      "skill_name": "Python Django",
+      "skill_pctg": 40
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "lang_pctg": 80
+    },
+    {
+      "language": "Kannada",
+      "lang_pctg": 100
+    },
+    {
+      "language": "Hindhi",
+      "lang_pctg": 70
+    }
+  ],
+  "work_experiences": [
+    {
+      "job_title": "Front End Developer",
+      "company": "Media cannibal LLP",
+      "start_date": "Jan 2020",
+      "end_date": "Current",
+      "job_description": [
+        "Front end web and Mobile app development with Integated IOT models and Devops with Amazon EC2 Instace mangement with Linux kernal"
+      ]
+    },
+    {
+      "job_title": "Web & Mobile app Developer",
+      "company": "M-insure Services pvt ltd",
+      "start_date": "aug 2019",
+      "end_date": "Jan 2020",
+      "job_description": [
+        "Developed React native high bread mobile application and worked on Angular web application UI changes and API integrations"
+      ]
+    },
+    {
+      "job_title": "software intern",
+      "company": "insnap pvt ltd",
+      "start_date": "may 2019",
+      "end_date": "jul 2019",
+      "job_description": [
+        "worked on Angular web application UI changes and contributed on company product"
+      ]
+    },
+    {
+      "job_title": "Android App development",
+      "company": "Team LetsSmart",
+      "start_date": "sep 2018",
+      "end_date": "april 2019",
+      "job_description": [
+        "Developed An IOT home automation system and Android App which Communicate with each other to make the user's life easy by assisting with controlling home appliences remotely"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Dayanand Sagar Academy of technology and management",
+      "start_date": "aug 2015",
+      "end_date": "aug 2018",
+      "degree": "BE in Computer science and engg"
+    },
+    {
+      "institution": "KIET polytechnic",
+      "start_date": "aug 2012",
+      "end_date": "may 2015",
+      "degree": "Diploma in Computer science and engg"
+    },
+    {
+      "institution": "R.M.P.H.S",
+      "start_date": "2011",
+      "end_date": "2012",
+      "degree": "SSLC"
+    }
+  ],
+  "work_experiences1": [
+    {
+      "job_title": "Front End Developer",
+      "company": "w3schools.com",
+      "start_date": "Jan 2015",
+      "end_date": "Current",
+      "job_description": [
+        " "
+      ]
+    },
+    {
+      "job_title": "Web Developer",
+      "company": "something.com",
+      "start_date": "Mar 2012",
+      "end_date": "Dec 2014",
+      "job_description": [
+        " "
+      ]
+    },
+    {
+      "job_title": "Graphic Designer",
+      "company": "designsomething.com",
+      "start_date": "Jun 2010",
+      "end_date": "Mar 2012",
+      "job_description": [
+        " "
+      ]
+    }
+  ],
+  "education1": [
+    {
+      "institution": "W3Schools.com",
+      "start_date": "Jan 2015",
+      "end_date": "Forever",
+      "degree": "Web Development! All I need to know in one place"
+    },
+    {
+      "institution": "London Business School",
+      "start_date": "2013",
+      "end_date": "2015",
+      "degree": "Master Degree"
+    },
+    {
+      "institution": "School of Coding",
+      "start_date": "2010",
+      "end_date": "2013",
+      "degree": "Bachelor Degree"
+    }
+  ]
+}
